@@ -115,7 +115,7 @@ export const Contact = () => {
               <div className="text-center">
                 <h4 className="text-xl font-semibold text-white mb-2">Get my CV here</h4>
                 <p className="text-blue-100 mb-4">Get a detailed overview of my skills and experience</p>
-                <a href="https://docs.google.com/document/d/12euOt5aQZsQTxRtXmTMC8KI5AzLfUVTgG9ksrrbgbQo/edit?usp=drive_link" target="_blank" rel="noopener noreferrer" onClick={() => toast({
+                <a href="https://docs.google.com/document/d/1gfxJlLgLb3DTMKXgPw-B6nDUhhRyTC8UANS5YzAz-TI/edit?tab=t.0" target="_blank" rel="noopener noreferrer" onClick={() => toast({
                 title: "Opening CV",
                 description: "Your CV is opening in a new tab"
               })}>
